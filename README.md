@@ -5,3 +5,5 @@ In this assignment we used 3 regression models and tried to estimate this functi
 - Linear Regression
 - Polynomial Regression with degree of 3
 - Polynomial Regression with degree of 5
+
+We tested Gradient Descent, Regularization, etc. in this assignment.
