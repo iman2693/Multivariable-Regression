@@ -1,2 +1,3 @@
 # Multivariable-Regression
-This is one of our assignments for machine learning course at the University of Tehran
+
+$$y = 4x_{2}^{2}x1+2x_{2}^{2}+3x_{1}+1}$$
